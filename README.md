@@ -30,17 +30,6 @@
 - **Socket.io-client**: 实时功能
 - **Styled-components**: 组件样式定制
 
-## 功能演示
-
-### 项目仪表盘
-![项目仪表盘](./docs/images/dashboard.png)
-
-### 项目详情页
-![项目详情](./docs/images/project-detail.png)
-
-### 协作与讨论
-![协作功能](./docs/images/collaboration.png)
-
 ## 安装与使用
 
 ### 前提条件
