@@ -181,7 +181,7 @@ inspiration-garden/
 
 ## 联系方式
 
-- 项目创建者: [Your Name](mailto:your.email@example.com)
+- 项目创建者: 1351055318
 - 项目仓库: [https://github.com/1351055318/Creative-collaboration-platform](https://github.com/1351055318/Creative-collaboration-platform)
 
 ---
